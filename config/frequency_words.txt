@@ -1,6 +1,9 @@
 DeepSeek
 梁文锋
 
+加密货币
+tom lee
+
 华为
 鸿蒙
 HarmonyOS
@@ -18,10 +21,6 @@ DJI
 智元
 灵犀
 稚晖君
-
-字节
-bytedance
-张一鸣
 
 特斯拉
 马斯克
@@ -47,6 +46,7 @@ sora
 claude
 Anthropic
 
+openai
 ai
 !gai
 人工智能
@@ -67,8 +67,6 @@ ai
 
 芯片
 光刻机
-
-科技
 
 核能
 
